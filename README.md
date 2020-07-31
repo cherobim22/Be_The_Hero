@@ -9,5 +9,5 @@ Chocolatey
 Node.js
   $ choco install nodejs
   $ https://nodejs.org/en/download/
-  
+  $npm install
 ```
